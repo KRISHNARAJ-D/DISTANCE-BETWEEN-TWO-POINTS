@@ -32,4 +32,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
-By this program we able to find the distance between two points`
+By this program we able to find the distance between two points.
